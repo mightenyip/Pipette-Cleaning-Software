@@ -1,7 +1,7 @@
 # Pipette-Cleaning-Software
 
 By Mighten Yip and Corey Landry ([Precision Biosystems Laboratory](http://pbl.gatech.edu/) at Georgia Tech, 2020).
-Software referred to the cleaning methods as published in Bio-protocols ([source]).
+Software based on the cleaning methods as published in Bio-protocols ([source]). Improved upon the reuse method introduced by [Ilya Kolb et al.](https://www.nature.com/articles/srep35001).
 
 
 This repository allows the user to reuse pipette electrodes for patch clamp experiments. This concept was explored using a Scientifica manipulator/stage and a digitally controlled [pressure control box](http://neuromaticdevices.com).
